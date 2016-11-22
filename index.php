@@ -7,8 +7,17 @@
     </head>
     
     <body>
+        <div id="include_banner">
+            <?php include "includes/banner.php" ;?>
+        </div>
+       
+        <div id="container">
+            <p>Body content</p>
+        </div>
+        
         <div id="include_footer">
-            <?php include "footer.php" ?>
+            <?php include "includes/footer.php" ;?>
         </div>
     </body>
+    
 </html>
