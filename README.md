@@ -1,3 +1,3 @@
 # 1300-apple-fest
 
-add, commit, push, pull
+put other included php files in the includes folder
