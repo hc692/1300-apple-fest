@@ -1,3 +1,6 @@
+#banner img {
+    width: 100%;
+}
 #banner {
     background-color: indianred;
     left:0;
@@ -8,7 +11,7 @@
     height: 20em;
     text-align: center;
     position: fixed;
-    height: 100px;
+    height: 150px;
     
 }
 
@@ -16,7 +19,7 @@
     position: fixed;
     background-color: navajowhite;
     text-align: center;
-    top: 100px;
+    top: 150px;
     width: 100%;
     left: 0;
     padding: 0.3em;
@@ -28,7 +31,7 @@
 
 
 #footer {
-    margin: 300px auto;
+    margin: 400px auto;
     left:0;
     background-color: indianred;
     width:100%;
