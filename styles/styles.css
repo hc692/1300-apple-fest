@@ -8,7 +8,7 @@ body {
     top: 0;
     margin: 0;
     left: 0;
-    position: absolute;
+    position: fixed;
    
 }
 #banner {
@@ -19,7 +19,7 @@ body {
     width:100%;
     height: 20em;
     text-align: center;
-    position: absolute;
+    position: fixed;
     height: 150px;
     font-family: fantasy;
     font-size: 2em;
@@ -27,13 +27,13 @@ body {
 }
 
 #nav_bar {
-    position: absolute;
+    position: fixed;
     background-color: navajowhite;
     text-align: center;
     top: 250px;
     margin-left: auto;
     margin-right: auto;
-    left: 25%;
+    left: 22%;
     max-width: 960px;
     padding: 0.8em;
 }
