@@ -20,6 +20,8 @@ echo '
 
             <!--social media code adapted from https://simplesharebuttons.com/html-share-buttons/ -->
 
+            <!-- citation: social media code and links copied from https://simplesharebuttons.com/html-share-buttons/ -->
+
         </div>
 
     </div>

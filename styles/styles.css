@@ -28,9 +28,9 @@ body {
     background-color: navajowhite;
     text-align: center;
     top: 250px;
-    width: 100%;
     margin-left: auto;
     margin-right: auto;
+    left: 25%;
     max-width: 960px;
     padding: 0.8em;
 }
@@ -52,7 +52,7 @@ body {
 #footer {
     margin: 400px auto;
     left:0;
-    background-color: indianred;
+    background-color: navajowhite;
     width:100%;
     text-align: center;
     

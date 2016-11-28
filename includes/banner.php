@@ -4,7 +4,7 @@ echo '
 
     <div id="banner_pic">
         <img src="images/apple_tree.jpg" alt="appletree">
-            <!--http://www.motherearthnews.com/organic-gardening/how-to-prune-an-apple-tree-zmaz76ndztak --> 
+            <!--image citation: http://www.motherearthnews.com/organic-gardening/how-to-prune-an-apple-tree-zmaz76ndztak --> 
     </div>
     
     <div id="banner">
