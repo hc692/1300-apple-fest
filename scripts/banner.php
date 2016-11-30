@@ -3,8 +3,8 @@
 echo '
 
     <div id="banner_pic">
-        <img src="images/apple_tree.jpg" alt="appletree">
-            <!--image citation: http://www.motherearthnews.com/organic-gardening/how-to-prune-an-apple-tree-zmaz76ndztak --> 
+        <img src="images/apples_image.jpg" alt="appletree">
+            <!--image citation: http://soupbelly.com/2011/10/29/apple-muffin-doughnuts/ --> 
     </div>
     
     <div id="banner">
@@ -12,13 +12,13 @@ echo '
     </div>
 
     <div id="nav_bar"> 
-            <span class="nav_span"><a href="#home">Home</a></span>
+            <span class="nav_span"><a href="index.php">Home</a></span>
 
-            <span class="nav_span"><a href="#schedule">Schedule</a></span>
+            <span class="nav_span"><a href="schedule.php">Schedule</a></span>
 
-            <span class="nav_span"><a href="#vendors">List of Vendors</a></span>
+            <span class="nav_span"><a href="vendors.php">List of Vendors</a></span>
 
-            <span class="nav_span"><a href="#map">Map of Layout</a></span>
+            <span class="nav_span"><a href="map.php">Map of Layout</a></span>
 
     </div>
 
