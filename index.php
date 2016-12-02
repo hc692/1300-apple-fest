@@ -23,6 +23,8 @@
             
             <p>Apple Fest has a large variety of activities you and your family can participate in. There are both friendly-family activities and things for just the parents to do while the kids play on the playground in the Commons. Some activities that your kids will love are face painting, apple tasting, coloring apple-related pages. For a comprehensie list for you and your family, please refer to the "Schedule" page.</p>
             
+            <p> Courtney </p>
+            
         </div>
         
         <div id="include_footer">
