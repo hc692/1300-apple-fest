@@ -1,0 +1,20 @@
+/*for VENDOR page */
+
+#vendors_big_pic {
+    margin-left: 0;
+    width: 100%;
+    padding-top: 1em;
+    
+}
+
+#vendor_columns {
+    column-count: 2;
+    max-width: 960px;
+    text-align: center;
+}
+
+
+#vendors_kids, #vendors_parents {
+    height: 250px;
+    width: 300px;    
+}

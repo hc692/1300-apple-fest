@@ -4,6 +4,13 @@
         <meta charset="utf-8">
         <title>Apple Fest Website</title>
         <link rel="stylesheet" type="text/css" href="styles/styles.css">
+        
+        <!--add link to jQuery library-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            <!--add javasript link -->
+        
+        <script src="js/main.js"></script>
+        
     </head>
     
     <body>
