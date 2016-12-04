@@ -5,6 +5,10 @@
         <meta charset="utf-8">
         <title>Apple Fest Schedule Tab</title>
         <link rel="stylesheet" type="text/css" href="styles/styles.css">
+        
+        <!--reference header font -->
+        <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+        
     </head>
     
     <body>

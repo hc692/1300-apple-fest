@@ -1,5 +1,11 @@
 /*for VENDOR page */
 
+#container_vendor {
+    padding-left: 2em;
+    padding-right: 2em;
+  
+}
+
 #vendors_big_pic {
     margin-left: 0;
     width: 100%;
@@ -8,7 +14,6 @@
 }
 
 #vendor_columns {
-    column-count: 2;
     max-width: 960px;
     text-align: center;
 }
@@ -17,4 +22,8 @@
 #vendors_kids, #vendors_parents {
     height: 250px;
     width: 300px;    
+}
+
+#vendor_list {
+    padding-left: 3em;
 }

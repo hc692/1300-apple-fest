@@ -11,6 +11,9 @@
         
         <script src="js/main.js"></script>
         
+        <!--reference header font -->
+        <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+        
     </head>
     
     <body>

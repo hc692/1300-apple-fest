@@ -16,9 +16,9 @@ echo '
 
             <span class="nav_span"><a href="schedule.php">Schedule</a></span>
 
-            <span class="nav_span"><a href="vendors.php">List of Vendors</a></span>
+            <span class="nav_span"><a href="vendors.php">Vendors</a></span>
 
-            <span class="nav_span"><a href="map.php">Map of Layout</a></span>
+            <span class="nav_span"><a href="map.php">Map</a></span>
 
     </div>
 

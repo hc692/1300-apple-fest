@@ -14,6 +14,9 @@
         
         <script src="js/main.js"></script>
         
+        <!--reference header font -->
+        <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
+        
     </head>
     
     <body>
@@ -26,17 +29,23 @@
             <img id="vendors_big_pic" src="images/apple_fest_booth.jpg" alt="apple fest">
                  <!--picture citation: https://www.flickr.com/photos/hannahmaclean/8381840938-->
             
-            <p>Our vendors look forward to Apple Fest every year, excited to share their products with the Ithaca community. With an emphasis on freshness and locally-grown products, Apple Fest has things enjoyable for your whole family!</p>
-            
-            <p>One highlight of every year's Apple Fest are the apple and festive autumn products sold. You and your family can taste many fresh and delicious fruits, produce, and food. </p>
-            
-            <p>Here are lists of vendors to stop by! For you and your family's convenience, we have put highlight booths for the kids and for the adults.</p>
+            <div id="container_vendor">
+                <h2>Our Vendors</h2>
+
+                <p>Our vendors look forward to Apple Fest every year, excited to share their products with the Ithaca community. With an emphasis on freshness and locally-grown products, Apple Fest has things enjoyable for your whole family!</p>
+
+                <p>One highlight of every year's Apple Fest are the apple and festive autumn products sold. You and your family can taste many fresh and delicious fruits, produce, and food. </p>
+
+                <p>Below are some activities/ vendor products for you and your family. For you and your family's convenience, we have put highlight booths for the kids and for the adults.</p>
+
+                <br></br>
+
+            </div>
             
             <div id="vendor_columns">
             
                 <!--start kids column-->
                 <div id="kids_column">
- 
                     <h2 id="vendor_click_text_kids">Kids, click the image!</h2>
 
                     <img id="vendors_kids" src="images/face_painting.jpg" alt="face_painting">
@@ -47,8 +56,7 @@
                 
                 <!--start parents column-->
                 <div id="parents_column">
-                    
-                    
+                    <br></br>
                     <h2 id= "vendor_click_text_parents">Parents, click the image!</h2>
 
                     <img id="vendors_parents" src=images/IMG_6118.jpg alt="adults_vendor">
@@ -58,13 +66,18 @@
             </div>
             
             <div id="vendor_list">
-                <p>Vendors will be selling:</p>
+                <p>Over 100 vendors are excited to share their products with you and your family. Some products to look forward to include: </p>
                 <ul>
-                    <li>Apple cider</li>
+                    <li>Apple cider/apple beverages</li>
                     <li>Cider donuts</li>
                     <li>Pumpkins</li>
                     <li>Hard cider</li>
+                    <li>Kettle corn</li>
+                    <li>Local farm fresh baked goods</li>
                     <li>Handcrafted artisan goods</li>
+                    <li>Handcrafted jewelry</li>
+                    <li>Clothing</li>
+                    <li>Organic body care products</li>
                     <li>Apples, apples, and more apples!</li>
                 </ul>
             </div>
