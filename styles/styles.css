@@ -45,6 +45,12 @@ body {
     margin-right: auto;
     max-width: 960px;
     font-size: 1em;
+  
+}
+
+#home_image {
+    margin-top: auto;
+    align-content: center;
 }
 
 #footer {
