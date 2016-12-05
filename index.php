@@ -22,7 +22,7 @@
         </div>
         
         <p class="welcome"> 
-                Welcome to the Ithaca Apple Fest Website
+                Welcome to the Ithaca Apple Fest Website!
             </p>
         <div id="container">
 
