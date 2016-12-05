@@ -25,7 +25,10 @@ body {
     text-shadow: 2px 2px 2px #aaa;
     
 }
-
+.welcome {
+    font-size: 2em;
+    text-align: center;
+}
 #nav_bar {
     background-color: navajowhite;
     text-align: center;
@@ -34,6 +37,7 @@ body {
     margin-right: auto;
     max-width: 960px;
     padding: 0.8em;
+    margin-bottom: 20px;
 }
 
 .nav_span {
@@ -45,23 +49,33 @@ body {
     margin-right: auto;
     max-width: 960px;
     font-size: 1em;
+    text-align: auto;
   
 }
-
-#home_image {
-    margin-top: auto;
-    align-content: center;
+#annual {
+    font-weight: bold;
+}
+img {
+    float: left; 
+    margin-right: 20px; 
+    display: inline;
+}
+#when {
+    font-weight: bold; 
 }
 
+#where {
+    font-weight: bold;
+}
 #footer {
     position: absolute;
     left:0;
     background-color: navajowhite;
     width:100%;
-    text-align: center;  
+    height: 50px;
+
+}
+#footer_words {
+    text-align: center;
 }
 
-#social_media img {
-    top: 500px;
-    height: 70%;
-}
