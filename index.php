@@ -26,10 +26,13 @@
                 Welcome to the Ithaca Apple Fest Website!
             </p>
         <div id="container">
-
-            <img id="home_pic" src="images/apples_home2.jpg" alt="apples" class="home">
-                <!--picture citation: https://guiltlesssplurge.files.wordpress.com/2010/10/dscn0815.jpg-->
             
+            <div id="home">
+                <img id="home_pic" src="images/apples_home2.jpg" alt="apples" class="home">
+                <!--picture citation: https://guiltlesssplurge.files.wordpress.com/2010/10/dscn0815.jpg-->
+            </div>
+            
+            <div id="description">
             <p>
                 This year marks the <span id="annual"> 35th Annual Ithaca Apple Harvest Festival </span> presented by the Tompkins Trust Company. Apple Festival hosts a variety of locally grown apples as well as other produce, fresh baked goods, games, live entertainment and more!
             </p>
@@ -43,6 +46,8 @@
             
             <p class="food">
                 Along with activities for the whole family, Apple Fest will have a variety of vendors that cater to all different tastes. There will be delicious fresh fruit, apple pies, kettlecorn, caramel apples, and everyone's all-time favorite: hot apple cider donuts!</p>
+                
+            </div>
             
             <div id="memo">
                 

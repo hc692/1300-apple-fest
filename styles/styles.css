@@ -55,6 +55,9 @@ body {
     font-size: .99em;
     
 }
+#home {
+    width: 40%;
+}
 #annual {
     font-weight: bold;
 }
