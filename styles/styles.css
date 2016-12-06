@@ -1,6 +1,7 @@
 body {
     background-color: beige;
     font-family: "Book Antiqua", serif;
+    margin: 0;
 }
 
 #banner_pic img {
@@ -12,30 +13,28 @@ body {
    
 }
 #banner {
+    position: fixed;
+    width:100%;
     left:0;
     margin:0;
     border: 0;
-    width:100%;
     top: -30px;
     text-align: center;
-    position: fixed;
     font-family: 'Lobster Two', cursive;
     font-size: 2em;
     color: white;
-    text-shadow: 2px 2px 2px #aaa;
-    
+    text-shadow: 2px 2px 2px #aaa;    
 }
+
 .welcome {
     font-size: 2em;
     text-align: center;
 }
 #nav_bar {
+    width: 100%;
     background-color: navajowhite;
     text-align: center;
-    margin-top: 148px;
-   /* margin-left: auto;
-    margin-right: auto;*/
-   /* max-width: 5000px;*/
+    margin-top: 160px;
     padding: 0.8em;
     margin-bottom: 20px;
     
@@ -114,15 +113,23 @@ ul {
     align-content: right;
 }
 #footer {
-    position: absolute;
     left:0;
+    margin: 0;
     background-color: navajowhite;
     width:100%;
     height: 50px;
+<<<<<<< HEAD
     margin-top: 50px;
 
 }
 #footer_words {
+=======
+    margin-top: 130px;
+>>>>>>> 3a5f155b6b51f260007821849f2177ed84a0f589
     text-align: center;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
 }
 
+#social_media {
+    background-color: navajowhite;

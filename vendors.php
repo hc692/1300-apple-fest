@@ -38,7 +38,7 @@
 
                 <p>Below are some activities/ vendor products for you and your family. For you and your family's convenience, we have put highlight booths for the kids and for the adults.</p>
 
-                <br></br>
+       
 
             </div>
             
