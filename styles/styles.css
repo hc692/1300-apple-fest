@@ -120,7 +120,6 @@ ul {
     left:0;
     margin: 0;
     right: 0;
-    padding-top: 0.3em;
     text-align: center;
     background-color: navajowhite;
     width:100%;
@@ -128,23 +127,26 @@ ul {
     margin-top: 50px;
 
 }
-#footer_words {
-    margin-top: 130px;
-    text-align: center;
+
+#space {
     padding-top: 0.3em;
+}
+#footer_words {
+
+    text-align: center;
     padding-bottom: 0.3em;
     
 }
 
 #social_media {
-    background-color: navajowhite;
+    background-color: navajowhite; 
 }
 
 a {
     text-decoration: none;
     color: black;
-    padding: 0.9em;
-    padding-top: 0.8em;
+    padding: 0;
+    padding-top: 0;
 }
 
 a:hover {

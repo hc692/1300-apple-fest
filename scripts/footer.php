@@ -4,7 +4,7 @@ echo '
 
     
     <div id="footer">
-        <p>Stay up to date and follow Apple Fest on social media!</p>
+        <p id="space">Stay up to date and follow Apple Fest on social media!</p>
 
         <div id="social_media">
 
