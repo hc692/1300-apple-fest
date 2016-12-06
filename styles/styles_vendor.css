@@ -10,6 +10,10 @@
     border-width: thick;
 }
 
+#container {
+    text-align: center;
+}
+
 #container_vendor {
     padding-left: 2em;
     padding-right: 2em;
@@ -28,6 +32,9 @@
     text-align: center;
 }
 
+#vendor_list {
+    text-align: left;
+}
 
 #vendors_kids, #vendors_parents {
     height: 250px;

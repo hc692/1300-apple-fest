@@ -25,12 +25,11 @@
         </div>
        
         <div id="container">
-            
+            <h1>Our Vendors</h1>
             <img id="vendors_big_pic" src="images/apple_fest_booth.jpg" alt="apple fest">
                  <!--picture citation: https://www.flickr.com/photos/hannahmaclean/8381840938-->
             
             <div id="container_vendor">
-                <h2>Our Vendors</h2>
 
                 <p>Our vendors look forward to Apple Fest every year, excited to share their products with the Ithaca community. With an emphasis on freshness and locally-grown products, Apple Fest has things enjoyable for your whole family!</p>
 
