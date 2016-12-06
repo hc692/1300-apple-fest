@@ -147,6 +147,9 @@ a {
     color: black;
     padding: 0;
     padding-top: 0;
+    padding: 0.9em;
+    padding-top: 0.8em;
+    border-color: darkgoldenrod;
 }
 
 a:hover {
