@@ -1,0 +1,38 @@
+.times {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.schedule-block {
+    padding: 1em;
+    padding-bottom: 2em; 
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#head-block {
+    padding-bottom: 2em;
+    text-align-last: center;
+}
+
+h5 {
+    padding-bottom: 1em;
+}
+
+#sch {
+    font-weight: bold;
+    background-color: beige;
+    border-style: solid;
+    border-color: darkgray;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-width: thick;
+}

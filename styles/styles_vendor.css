@@ -1,5 +1,15 @@
 /*for VENDOR page */
 
+#ven {
+    font-weight: bold;
+    background-color: beige;
+    border-style: solid;
+    border-color: darkgray;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-width: thick;
+}
+
 #container_vendor {
     padding-left: 2em;
     padding-right: 2em;

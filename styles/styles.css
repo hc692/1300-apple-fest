@@ -44,6 +44,10 @@ body {
     margin:3em;
 }
 
+.nav_span a {
+    padding: 0.9em;
+}
+
 #container {
     margin-left: auto;
     margin-right: auto;
@@ -133,3 +137,15 @@ ul {
 
 #social_media {
     background-color: navajowhite;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 0.9em;
+    padding-top: 0.8em;
+}
+
+a:hover {
+    background-color: beige;
+}
