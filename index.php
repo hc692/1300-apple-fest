@@ -46,24 +46,63 @@
             
             <div id="memo">
                 
-                <img id="caramel_pic" src="images/caramel_apples.jpeg" alt="caramel" class="caramel">
+                <img id="caramel_pic" src="images/caramel_apples.jpg" alt="caramel" class="caramel">
                 <!--picture citation: http://www.hercampus.com/school/ithaca/best-apple-fest-->
                 
+            
                 <div id ="date">
-                <p class="save">
-                    Save the Date!
+                    <p class="save">
+                        Save the Date!
 
-                </p>
-                <p> 
-                    <span id="when">When: </span> October 2017 
+                    </p>
+                    <p> 
+                        <span id="when">When: </span> October 2017 
 
-                </p>
-                <p> 
-                   <span id="where">Where:</span> Ithaca Commons, 171 E M.L.K. Jr. St, Ithaca, NY 14850 
-                </p>
-                <p> 
-                    <span id="cost">Cost:</span> FREE</p>
+                    </p>
+                    <p> 
+                       <span id="where">Where:</span> Ithaca Commons, 171 E M.L.K. Jr. St, Ithaca, NY 14850 
+                    </p>
+                    <p> 
+                        <span id="cost">Cost:</span> FREE</p>
+                    </div>
+                
+                
+                <img id="ferris_wheel" src="images/kids.jpg" alt="kids" class="kids">
+               <!-- picture citation: https://millneck.org/tag/apple-fest/
+                -->
+                
+                <div id="partners">
+                    <ul>
+                       <p class="strategic_partners"> Please see our strategic partners below.</p> 
+                    </ul>
+                
+                    <ul> 
+                        
+                        <a href="https://www.tcatbus.com/">
+                    <img src="images/tcat.jpg" alt="partner1" >
+                        <!-- picture citation: http://pawprint.cornell.edu/?q=node/2192--> 
+                        </a>
+                    </ul>
+                
+                    <ul>
+                        <a href="https://www.iloveny.com/">
+                        <img src="images/iloveny.jpg" alt="partner2" >
+                            <!-- picture citation: http://99percentinvisible.org/episode/episode-87-i-heart-ny-tm/--> 
+                            </a>
+                    </ul>
+                   
+                     <ul> 
+                         <a href="http://www.visitithaca.com/">
+                        <img src="images/visitithaca.png" alt="partner3" >
+                            <!--http://www.visitithaca.com/ --> 
+                            </a> 
+                     </ul>
+                    
+                
                 </div>
+                
+        
+                
             </div>
             
         </div>
