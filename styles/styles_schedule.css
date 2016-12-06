@@ -10,6 +10,7 @@ table {
 .schedule-block {
     padding: 1em;
     padding-bottom: 2em; 
+    text-align: center;
 }
 
 td, th {
@@ -20,7 +21,7 @@ td, th {
 
 #head-block {
     padding-bottom: 2em;
-    text-align-last: center;
+    text-align: center;
 }
 
 h5 {
