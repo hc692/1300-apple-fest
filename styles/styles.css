@@ -140,7 +140,7 @@ ul {
     padding-bottom: 1em;
 }
 
-a {
+.nav_span a {
     text-decoration: none;
     color: black;
     padding: 0;
@@ -150,6 +150,6 @@ a {
     border-color: darkgoldenrod;
 }
 
-a:hover {
+.nav_span a:hover {
     background-color: beige;
 }
