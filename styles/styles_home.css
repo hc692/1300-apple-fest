@@ -1,21 +1,4 @@
-#container {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    padding-bottom: 2em;
-}
-
-#map_text {
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#map_img {
-    width: 700px;
-}
-
-#map {
+#idx {
     padding: 0.9em;
     padding-top: 0.8em;
     text-decoration: none;

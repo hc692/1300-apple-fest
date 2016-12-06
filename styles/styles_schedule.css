@@ -26,3 +26,17 @@ td, th {
 h5 {
     padding-bottom: 1em;
 }
+
+#sch {
+    padding: 0.9em;
+    padding-top: 0.8em;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: beige;
+    color: black;
+    border-style: solid;
+    border-color: darkgray;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-width: thick;
+}

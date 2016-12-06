@@ -12,13 +12,13 @@ echo '
     </div>
 
     <div id="nav_bar"> 
-            <span class="nav_span"><a href="index.php">Home</a></span>
+            <span class="nav_span"><a id="idx" href="index.php">Home</a></span>
 
-            <span class="nav_span"><a href="schedule.php">Schedule</a></span>
+            <span class="nav_span"><a id="sch" href="schedule.php">Schedule</a></span>
 
-            <span class="nav_span"><a href="vendors.php">Vendors</a></span>
+            <span class="nav_span"><a id="ven" href="vendors.php">Vendors</a></span>
 
-            <span class="nav_span"><a href="map.php">Map</a></span>
+            <span class="nav_span"><a id="map" href="map.php">Map</a></span>
 
     </div>
 
