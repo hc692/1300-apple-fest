@@ -120,17 +120,15 @@ ul {
     left:0;
     margin: 0;
     right: 0;
+    text-align: center;
     background-color: navajowhite;
     width:100%;
     height: 50px;
-<<<<<<< HEAD
     margin-top: 50px;
 
 }
 #footer_words {
-=======
     margin-top: 130px;
->>>>>>> 3a5f155b6b51f260007821849f2177ed84a0f589
     text-align: center;
     padding-top: 0.3em;
     padding-bottom: 0.3em;
