@@ -113,7 +113,7 @@ body {
 
 
 ul {
-    align-content: right;
+    align-content: flex-end;
 }
 #footer {
     left:0;

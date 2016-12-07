@@ -17,12 +17,13 @@
 #container_vendor {
     padding-left: 2em;
     padding-right: 2em;
+    text-align: left;
   
 }
 
 #vendors_big_pic {
     margin-left: 0;
-    width: 100%;
+    width: 70%;
     padding-top: 1em;
     
 }

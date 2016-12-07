@@ -37,10 +37,10 @@
                 This year marks the <span id="annual"> 35th Annual Ithaca Apple Harvest Festival </span> presented by the Tompkins Trust Company. Apple Festival hosts a variety of locally grown apples as well as other produce, fresh baked goods, games, live entertainment and more!
             </p>
             
-            <p>Spend a family weekend at Apple Fest and participate in the fun! Apple Fest has a large variety of activities you and your family can participate in. There are friendly-family activities for both the parents and children as well as  vendor booths for the adults. 
+            <p>Spend a family weekend at Apple Fest and participate in the fun! Apple Fest has a large variety of activities you and your family can participate in. There are friendly-family activities and vendors for both the parents and children. 
             </p>
             
-            <p>Some activities that your kids will love are face painting, apple tasting, coloring apple-related pages, etc. For a comprehensive list of activities and events, please refer to the Schedule page.
+            <p>Your kids will love the activities! For a comprehensive list of activities and events, please refer to the Schedule page.
             </p>
             
             
