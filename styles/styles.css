@@ -4,16 +4,21 @@ body {
     margin: 0;
 }
 
+.main_content {
+  position: relative;
+  width: 100%;
+}
+
 #banner_pic img {
     width: 100%;
     top: 0;
     margin: 0;
     left: 0;
-    position: fixed;
-   
+
+
 }
 #banner {
-    position: fixed;
+    position: absolute;
     width:100%;
     left:0;
     margin:0;
@@ -23,43 +28,30 @@ body {
     font-family: 'Lobster Two', cursive;
     font-size: 2em;
     color: white;
-    text-shadow: 2px 2px 2px #aaa;    
+    text-shadow: 2px 2px 2px #aaa;
+}
+@media only screen and (max-width: 768px) {
+    #banner {
+        font-size: 1em !important;
+    }
 }
 
 .welcome {
     font-size: 2em;
     text-align: center;
 }
-#nav_bar {
-    width: 100%;
-    background-color: navajowhite;
-    text-align: center;
-    margin-top: 160px;
-    padding: 0.8em;
-    margin-bottom: 20px;
-    
-}
 
-.nav_span {
-    margin:3em;
-}
-
-.nav_span a {
-    padding: 0.9em;
-}
 
 #container {
     margin-left: auto;
     margin-right: auto;
     max-width: 960px;
     font-size: .99em;
-    
-}
 
+}
 #home {
     width: 40%;
 }
-
 #annual {
     font-weight: bold;
 }
@@ -69,6 +61,8 @@ body {
     float: left;
     margin-right: 30px;
     display: inline;
+    max-width: 100%;
+    height: auto;
 }
 
 #memo {
@@ -79,7 +73,7 @@ body {
 .caramel {
     float: right;
     display: inline;
-    margin-left: 20px; 
+    margin-left: 20px;
     margin-bottom: 80px;
     margin-right: 50px;
 
@@ -90,8 +84,9 @@ body {
    /* margin-top: 100px;*/
     margin-left: 100px;
     margin-right: 100px;
-    
-    
+    max-width: 100%;
+    height: auto;
+
 }
 
 #date {
@@ -102,10 +97,10 @@ body {
 }
 .save {
     font-size: 2em;
-  
+
 }
 #when {
-    font-weight: bold; 
+    font-weight: bold;
 
 }
 
@@ -146,16 +141,51 @@ ul {
     padding-bottom: 1em;
 }
 
-a {
-    text-decoration: none;
-    color: black;
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
     padding: 0;
-    padding-top: 0;
-    padding: 0.9em;
-    padding-top: 0.8em;
-    border-color: darkgoldenrod;
+    overflow: hidden;
+    background-color: navajowhite;
 }
 
-a:hover {
-    background-color: beige;
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: inline-block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.topnav li a:hover {background-color: #555;}
+
+ul.topnav li.icon {display: none;}
+
+@media screen and (max-width:680px) {
+  ul.topnav li:not(:first-child) {display: none;}
+  ul.topnav li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width:680px) {
+  ul.topnav.responsive {position: relative;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    display: block;
+    text-align: left;
+  }
 }
