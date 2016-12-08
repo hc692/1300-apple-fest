@@ -13,6 +13,7 @@
             <!--add javasript link -->
         
         <script src="js/main.js"></script>
+        <script src="js/resp.js"></script>
         
         <!--reference header font -->
         <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">

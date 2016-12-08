@@ -9,6 +9,9 @@
         <!--reference header font -->
         <link href="https://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet">
         
+        <script src="js/resp.js"></script>
+        <script src="js/main.js"></script>
+        
     </head>
     
     <body>
