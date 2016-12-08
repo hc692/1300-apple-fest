@@ -44,6 +44,10 @@ body {
     margin:3em;
 }
 
+.nav_span a {
+    padding: 0.9em;
+}
+
 #container {
     margin-left: auto;
     margin-right: auto;
@@ -51,9 +55,11 @@ body {
     font-size: .99em;
     
 }
+
 #home {
     width: 40%;
 }
+
 #annual {
     font-weight: bold;
 }
@@ -140,7 +146,7 @@ ul {
     padding-bottom: 1em;
 }
 
-.nav_span a {
+a {
     text-decoration: none;
     color: black;
     padding: 0;
@@ -150,6 +156,6 @@ ul {
     border-color: darkgoldenrod;
 }
 
-.nav_span a:hover {
+a:hover {
     background-color: beige;
 }
