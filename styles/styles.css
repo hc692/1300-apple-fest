@@ -147,21 +147,26 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: navajowhite;
+    text-align: center
 }
 
-ul.topnav li {float: left;}
+ul.topnav li {
+    display: inline-block;
+}
 
 ul.topnav li a {
     display: inline-block;
-    color: red;
+    color: #cc0000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     transition: 0.3s;
     font-size: 17px;
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
-ul.topnav li a:hover {background-color: #555;}
+ul.topnav li a:hover {background-color: #ffb366;}
 
 ul.topnav li.icon {display: none;}
 

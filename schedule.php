@@ -13,7 +13,7 @@
     
     <body>
         <div id="include_banner">
-            <?php include "scripts/banner.php" ;?>
+            <?php include "includes/banner.php" ;?>
         </div>
        
         <div id="container">
@@ -173,7 +173,7 @@
         <!-- schedule content from http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
         
         <div id="include_footer">
-            <?php include "scripts/footer.php" ;?>
+            <?php include "includes/footer.php" ;?>
         </div>
     </body>
 

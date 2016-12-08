@@ -21,7 +21,7 @@
     
     <body>
         <div id="include_banner">
-            <?php include "scripts/banner.php" ;?>
+            <?php include "includes/banner.php" ;?>
         </div>
        
         <div id="container">
@@ -85,7 +85,7 @@
 
         
         <div id="include_footer">
-            <?php include "scripts/footer.php" ;?>
+            <?php include "includes/footer.php" ;?>
         </div>
         
     </body>
