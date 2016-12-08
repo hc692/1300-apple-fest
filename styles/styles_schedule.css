@@ -24,6 +24,11 @@ td, th {
     text-align: center;
 }
 
+#neo {
+    max-width: 100%;
+    height: auto;
+}
+
 h5 {
     padding-bottom: 1em;
 }

@@ -26,7 +26,7 @@
                 <p>Here is everything you need to know about the schedule for this year's festival,
                 all in one place.</p>
                 <h4>Festival Dates: Friday September 30, 2016 - Sunday October 2, 2016</h4>
-                <img src="images/neo_project.jpg" alt="NEO Project">
+                <img id="neo" src="images/neo_project.jpg" alt="NEO Project">
                 <!-- image source: https://www.gigsalad.com/neo_project_ithaca -->
             </div>
 
